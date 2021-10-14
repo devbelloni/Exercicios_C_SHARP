@@ -1,0 +1,15 @@
+D:\GOOGLE DRIVE\CURSOS\C# UDEMY\ws-vs2019\exercicioproposto4\exercicioproposto4\bin\Debug\net5.0\exercicioproposto4.exe
+D:\GOOGLE DRIVE\CURSOS\C# UDEMY\ws-vs2019\exercicioproposto4\exercicioproposto4\bin\Debug\net5.0\exercicioproposto4.deps.json
+D:\GOOGLE DRIVE\CURSOS\C# UDEMY\ws-vs2019\exercicioproposto4\exercicioproposto4\bin\Debug\net5.0\exercicioproposto4.runtimeconfig.json
+D:\GOOGLE DRIVE\CURSOS\C# UDEMY\ws-vs2019\exercicioproposto4\exercicioproposto4\bin\Debug\net5.0\exercicioproposto4.runtimeconfig.dev.json
+D:\GOOGLE DRIVE\CURSOS\C# UDEMY\ws-vs2019\exercicioproposto4\exercicioproposto4\bin\Debug\net5.0\exercicioproposto4.dll
+D:\GOOGLE DRIVE\CURSOS\C# UDEMY\ws-vs2019\exercicioproposto4\exercicioproposto4\bin\Debug\net5.0\ref\exercicioproposto4.dll
+D:\GOOGLE DRIVE\CURSOS\C# UDEMY\ws-vs2019\exercicioproposto4\exercicioproposto4\bin\Debug\net5.0\exercicioproposto4.pdb
+D:\GOOGLE DRIVE\CURSOS\C# UDEMY\ws-vs2019\exercicioproposto4\exercicioproposto4\obj\Debug\net5.0\exercicioproposto4.GeneratedMSBuildEditorConfig.editorconfig
+D:\GOOGLE DRIVE\CURSOS\C# UDEMY\ws-vs2019\exercicioproposto4\exercicioproposto4\obj\Debug\net5.0\exercicioproposto4.AssemblyInfoInputs.cache
+D:\GOOGLE DRIVE\CURSOS\C# UDEMY\ws-vs2019\exercicioproposto4\exercicioproposto4\obj\Debug\net5.0\exercicioproposto4.AssemblyInfo.cs
+D:\GOOGLE DRIVE\CURSOS\C# UDEMY\ws-vs2019\exercicioproposto4\exercicioproposto4\obj\Debug\net5.0\exercicioproposto4.csproj.CoreCompileInputs.cache
+D:\GOOGLE DRIVE\CURSOS\C# UDEMY\ws-vs2019\exercicioproposto4\exercicioproposto4\obj\Debug\net5.0\exercicioproposto4.dll
+D:\GOOGLE DRIVE\CURSOS\C# UDEMY\ws-vs2019\exercicioproposto4\exercicioproposto4\obj\Debug\net5.0\ref\exercicioproposto4.dll
+D:\GOOGLE DRIVE\CURSOS\C# UDEMY\ws-vs2019\exercicioproposto4\exercicioproposto4\obj\Debug\net5.0\exercicioproposto4.pdb
+D:\GOOGLE DRIVE\CURSOS\C# UDEMY\ws-vs2019\exercicioproposto4\exercicioproposto4\obj\Debug\net5.0\exercicioproposto4.genruntimeconfig.cache

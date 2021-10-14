@@ -1,0 +1,16 @@
+D:\GOOGLE DRIVE\CURSOS\C# UDEMY\ws-vs2019\exercicioproposto5\exercicioproposto5\bin\Debug\net5.0\exercicioproposto5.exe
+D:\GOOGLE DRIVE\CURSOS\C# UDEMY\ws-vs2019\exercicioproposto5\exercicioproposto5\bin\Debug\net5.0\exercicioproposto5.deps.json
+D:\GOOGLE DRIVE\CURSOS\C# UDEMY\ws-vs2019\exercicioproposto5\exercicioproposto5\bin\Debug\net5.0\exercicioproposto5.runtimeconfig.json
+D:\GOOGLE DRIVE\CURSOS\C# UDEMY\ws-vs2019\exercicioproposto5\exercicioproposto5\bin\Debug\net5.0\exercicioproposto5.runtimeconfig.dev.json
+D:\GOOGLE DRIVE\CURSOS\C# UDEMY\ws-vs2019\exercicioproposto5\exercicioproposto5\bin\Debug\net5.0\exercicioproposto5.dll
+D:\GOOGLE DRIVE\CURSOS\C# UDEMY\ws-vs2019\exercicioproposto5\exercicioproposto5\bin\Debug\net5.0\ref\exercicioproposto5.dll
+D:\GOOGLE DRIVE\CURSOS\C# UDEMY\ws-vs2019\exercicioproposto5\exercicioproposto5\bin\Debug\net5.0\exercicioproposto5.pdb
+D:\GOOGLE DRIVE\CURSOS\C# UDEMY\ws-vs2019\exercicioproposto5\exercicioproposto5\obj\Debug\net5.0\exercicioproposto5.csproj.AssemblyReference.cache
+D:\GOOGLE DRIVE\CURSOS\C# UDEMY\ws-vs2019\exercicioproposto5\exercicioproposto5\obj\Debug\net5.0\exercicioproposto5.GeneratedMSBuildEditorConfig.editorconfig
+D:\GOOGLE DRIVE\CURSOS\C# UDEMY\ws-vs2019\exercicioproposto5\exercicioproposto5\obj\Debug\net5.0\exercicioproposto5.AssemblyInfoInputs.cache
+D:\GOOGLE DRIVE\CURSOS\C# UDEMY\ws-vs2019\exercicioproposto5\exercicioproposto5\obj\Debug\net5.0\exercicioproposto5.AssemblyInfo.cs
+D:\GOOGLE DRIVE\CURSOS\C# UDEMY\ws-vs2019\exercicioproposto5\exercicioproposto5\obj\Debug\net5.0\exercicioproposto5.csproj.CoreCompileInputs.cache
+D:\GOOGLE DRIVE\CURSOS\C# UDEMY\ws-vs2019\exercicioproposto5\exercicioproposto5\obj\Debug\net5.0\exercicioproposto5.dll
+D:\GOOGLE DRIVE\CURSOS\C# UDEMY\ws-vs2019\exercicioproposto5\exercicioproposto5\obj\Debug\net5.0\ref\exercicioproposto5.dll
+D:\GOOGLE DRIVE\CURSOS\C# UDEMY\ws-vs2019\exercicioproposto5\exercicioproposto5\obj\Debug\net5.0\exercicioproposto5.pdb
+D:\GOOGLE DRIVE\CURSOS\C# UDEMY\ws-vs2019\exercicioproposto5\exercicioproposto5\obj\Debug\net5.0\exercicioproposto5.genruntimeconfig.cache

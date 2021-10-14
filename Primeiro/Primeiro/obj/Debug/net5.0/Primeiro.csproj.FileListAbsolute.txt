@@ -1,0 +1,16 @@
+D:\GOOGLE DRIVE\CURSOS\C# UDEMY\ws-vs2019\Primeiro\Primeiro\bin\Debug\net5.0\Primeiro.exe
+D:\GOOGLE DRIVE\CURSOS\C# UDEMY\ws-vs2019\Primeiro\Primeiro\bin\Debug\net5.0\Primeiro.deps.json
+D:\GOOGLE DRIVE\CURSOS\C# UDEMY\ws-vs2019\Primeiro\Primeiro\bin\Debug\net5.0\Primeiro.runtimeconfig.json
+D:\GOOGLE DRIVE\CURSOS\C# UDEMY\ws-vs2019\Primeiro\Primeiro\bin\Debug\net5.0\Primeiro.runtimeconfig.dev.json
+D:\GOOGLE DRIVE\CURSOS\C# UDEMY\ws-vs2019\Primeiro\Primeiro\bin\Debug\net5.0\Primeiro.dll
+D:\GOOGLE DRIVE\CURSOS\C# UDEMY\ws-vs2019\Primeiro\Primeiro\bin\Debug\net5.0\ref\Primeiro.dll
+D:\GOOGLE DRIVE\CURSOS\C# UDEMY\ws-vs2019\Primeiro\Primeiro\bin\Debug\net5.0\Primeiro.pdb
+D:\GOOGLE DRIVE\CURSOS\C# UDEMY\ws-vs2019\Primeiro\Primeiro\obj\Debug\net5.0\Primeiro.csproj.AssemblyReference.cache
+D:\GOOGLE DRIVE\CURSOS\C# UDEMY\ws-vs2019\Primeiro\Primeiro\obj\Debug\net5.0\Primeiro.GeneratedMSBuildEditorConfig.editorconfig
+D:\GOOGLE DRIVE\CURSOS\C# UDEMY\ws-vs2019\Primeiro\Primeiro\obj\Debug\net5.0\Primeiro.AssemblyInfoInputs.cache
+D:\GOOGLE DRIVE\CURSOS\C# UDEMY\ws-vs2019\Primeiro\Primeiro\obj\Debug\net5.0\Primeiro.AssemblyInfo.cs
+D:\GOOGLE DRIVE\CURSOS\C# UDEMY\ws-vs2019\Primeiro\Primeiro\obj\Debug\net5.0\Primeiro.csproj.CoreCompileInputs.cache
+D:\GOOGLE DRIVE\CURSOS\C# UDEMY\ws-vs2019\Primeiro\Primeiro\obj\Debug\net5.0\Primeiro.dll
+D:\GOOGLE DRIVE\CURSOS\C# UDEMY\ws-vs2019\Primeiro\Primeiro\obj\Debug\net5.0\ref\Primeiro.dll
+D:\GOOGLE DRIVE\CURSOS\C# UDEMY\ws-vs2019\Primeiro\Primeiro\obj\Debug\net5.0\Primeiro.pdb
+D:\GOOGLE DRIVE\CURSOS\C# UDEMY\ws-vs2019\Primeiro\Primeiro\obj\Debug\net5.0\Primeiro.genruntimeconfig.cache
